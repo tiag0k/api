@@ -12,7 +12,7 @@
 - `DELETE /livros/:id` → Excluir livro
 
 npx serve frontend/
-# ou
+
 python3 -m http.server
 
 {
